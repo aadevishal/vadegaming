@@ -1,2 +1,2 @@
-# vadegaming
-gaming project
+
+add index.html
